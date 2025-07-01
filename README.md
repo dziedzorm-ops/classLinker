@@ -36,5 +36,4 @@ Online Student Result &amp; Report Card Portal for Schools
 - **Database**: MongoDB or Firebase  
 - **Authentication**: JWT / Firebase Auth  
 - **PDF Generation**: jsPDF or Puppeteer  
-- **Hosting**: Vercel, Netlify, or DigitalOcean
 
